@@ -1,0 +1,180 @@
+#mybody{
+	background-image:url("images/signupback.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+#secondcol{
+	background-color:#ffffff;
+	box-shadow: 5px 5px 12px #000000 ;
+	margin-top:8%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2%;
+    opacity: 0.9;
+
+}
+#myform{
+	margin-left: -5%;
+	opacity: 1;
+}
+input[type=text], input[type=Number], input[type=password] {
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+input[type=text]:focus, input[type=Number]:focus, input[type=password]:focus {
+    background-color: #fff;
+    outline: none;
+}
+.desig{
+	//border: solid black;
+	padding-bottom: 3%;
+	padding-top:3%;
+	margin-top: 3%;
+	margin-left: 3%;
+}
+#desig1{
+	margin-top: -1.5%;
+width:20%;
+float:left;
+}
+#desig2{
+	margin-top: -3%;
+width:80%;
+float:right;
+display: inline-block;
+}
+.firstname{
+	//border: solid black;
+	padding-bottom: 3%;
+	padding-top:3%;
+	margin-top: 2%;
+margin-left: 3%;
+}
+#fn1{
+		margin-top: -1.5%;
+	width:20%;
+float:left;
+}
+#fn2{
+	margin-top: -3%;
+	width:80%;
+float:right;
+}
+.lastname{
+	//border: solid black;
+	padding-bottom: 3%;
+	padding-top:3%;
+	margin-top: 2%;
+margin-left: 3%;
+}
+#ln1{
+		margin-top: -1.5%;
+	width:20%;
+float:left;
+}
+#ln2{
+	margin-top: -3%;
+	width:80%;
+float:right;
+}
+.email{
+	//border: solid black;
+	padding-bottom: 3%;
+	padding-top:3%;
+	margin-top: 2%;
+margin-left: 3%;
+}
+#email1{
+	margin-top: -1.5%;
+	width:20%;
+float:left;
+}
+#email2{
+	margin-top: -3%;
+	width:80%;
+float:right;
+}
+.username{
+	//border: solid black;
+	padding-bottom: 3%;
+padding-top:3%;
+margin-top: 2%;
+margin-left: 3%;
+}
+#user1{
+	margin-top: -1.5%;
+	width:20%;
+	float:left;
+}
+#user2{
+	margin-top: -3%;
+	width:80%;
+float:right;
+}
+.pass{
+padding-bottom: 3%;
+padding-top:3%;
+margin-top: 2%;
+margin-left: 3%;
+}
+#pass1{
+margin-top: -1.5%;
+	width:20%;
+	float:left;
+}
+#pass2{
+margin-top: -3%;
+	width:80%;
+float:right;
+}
+.confirmpass{
+padding-bottom: 3%;
+padding-top:3%;
+margin-top: 2%;
+margin-left: 3%;
+}
+#confirmpass1{
+margin-top: -2.5%;
+	width:20%;
+	float:left;
+}
+#confirmpass2{
+	margin-top: -3%;
+	width:80%;
+float:right;
+}
+.mobileno{
+	//border: solid black;
+	padding-bottom: 3%;
+	padding-top:3%;
+	margin-top: 2%;
+margin-left: 3%;
+}
+#mobileno1{
+	margin-top: -1.5%;
+	width:20%;
+float:left;
+}
+#mobileno2{
+	margin-top: -3%;
+	width:80%;
+float:right;
+}
+.buttonsofforms{
+	margin-top: 2%;
+	margin-left: 23%;
+
+}
+#loginbtn{
+	width:50%;
+	margin-left: 20%;
+}
+#forgetpass{
+	margin-left: 50%;
+}
+#clicktosignup{
+margin-left: 29%;
+}
